@@ -1,0 +1,92 @@
+
+
+body {
+    margin: 0 10%;
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+
+
+header h1 {
+    font-size: 50px;
+}
+
+.colors {
+    border: 2px solid #5B85AA;
+    display: inline-block;
+    width: 50%;
+    padding: 20px 10px;
+    margin: 10px auto;
+}
+
+
+.colorcontainer div{
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+    width: 30%;
+}
+
+.steelblue {
+    background-color: #5B85AA;
+}
+
+.purplenavy {
+    background-color: #414770;
+}
+
+.russianviolet {
+    background-color: #372248;
+}
+
+.colorname {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.hex {
+    color: white;
+    font-size: 16px;
+}
+
+.fonts {
+    border: 2px solid #414770;
+    display: inline-block;
+    width: 50%;
+    padding: 10px;
+    margin: 20px auto;
+}
+
+.fontname {
+    font-weight: 700;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+.boldexample {
+    font-weight: 700;
+}
+
+.italicsexample {
+    font-style: italic;
+}
+
+.lightexample {
+    font-weight: 300;
+}
+
+.roboto {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+}
+
+.merriweather {
+    font-family: "Merriweather", sans-serif;
+    font-size: 14px;
+}
+
+
